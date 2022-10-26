@@ -1,7 +1,7 @@
 import RPi.GPIO as GPIO
 import time
 
-GPIO.setwarnings(Flase)
+GPIO.setwarnings(False)
 
 green=11
 yellow=10
